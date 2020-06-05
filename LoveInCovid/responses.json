@@ -1,0 +1,12 @@
+[
+{
+	"response": "Hi, how are you?"
+}, 
+{
+	"response": "Cool! What are your hobbies?"
+}, 
+{
+	"response": "Not interested. Bye!",
+	"alternate": "Me too, let's date!"
+}
+]
